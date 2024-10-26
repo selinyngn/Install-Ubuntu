@@ -15,7 +15,8 @@
 ![WhatsApp Image 2024-10-27 at 00 51 18 (2)](https://github.com/user-attachments/assets/165f44c4-23a5-4dbf-95d3-a2a2f7749b91)
 
 6.Set the hard disk size according to your hardware and click the Finish button to run the virtual machine.
-![Uploading WhatsApp Image 2024-10-27 at 00.51.19 (2).jpeg…]()
+![WhatsApp Image 2024-10-27 at 00 51 19 (2)](https://github.com/user-attachments/assets/fe065441-aabb-4574-b743-d3c316bde53e)
+
 
 
 1.Initial Screen
