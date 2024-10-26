@@ -1,35 +1,44 @@
 # Install-Ubuntu
-Ubuntu virtual box ile nasıl kurulur?
+How to Install Ubuntu on VirtualBox?
 ![WhatsApp Image 2024-10-27 at 00 51 18](https://github.com/user-attachments/assets/f514b6e9-e9b3-45e5-96a5-d081d20c7165)
 
-Ubuntu kurulum dosyasını indirebilirsiniz
+You can download the Ubuntu installation file.
 ![WhatsApp Image 2024-10-27 at 00 51 19](https://github.com/user-attachments/assets/cd5431ce-b681-448f-8267-be82386b5bd2)
 
-Virtual box'ı açın ve Başlat butonuna basınız
+Open VirtualBox and click the Start button.
 ![WhatsApp Image 2024-10-27 at 00 51 19 (1)](https://github.com/user-attachments/assets/5125ec86-29da-4216-ba60-c71940436e7f)
 
- Ad ve işletim sistemi kurulum kısmı
+Name and Operating System Installation Section:
 ![WhatsApp Image 2024-10-27 at 00 51 18 (1)](https://github.com/user-attachments/assets/3d28000a-8e05-4275-8385-5446f19f193c)
 
-Donanım özelliklerini buradan bilgisayarınıza göre ayarlayınız
+Adjust the hardware settings according to your computer specifications.
 ![WhatsApp Image 2024-10-27 at 00 51 18 (2)](https://github.com/user-attachments/assets/165f44c4-23a5-4dbf-95d3-a2a2f7749b91)
 
-Sabit disk ayarlanı kendi donanımınıza göre ayarlayınız ve bitir butonuna basarak sanal makineyi çalıştırınız
+Set the hard disk size according to your hardware and click the Finish button to run the virtual machine.
 ![WhatsApp Image 2024-10-27 at 00 51 18 (3)](https://github.com/user-attachments/assets/5e3dc732-d354-444e-9d73-0c16a45fc1af)
 
-![VirtualBox_ubuntu1_26_10_2024_01_28_33](https://github.com/user-attachments/assets/d4cd7312-cca1-487b-ad69-9f6809c7f126)
-![VirtualBox_ubuntu1_26_10_2024_01_28_43](https://github.com/user-attachments/assets/27a27712-8cca-4c92-8bba-1d359f747213)
-![VirtualBox_ubuntu1_26_10_2024_01_28_55 (1)](https://github.com/user-attachments/assets/69b4ecb2-6618-4e76-ae70-65353eeaddf8)
-![VirtualBox_ubuntu1_26_10_2024_01_29_32](https://github.com/user-attachments/assets/1cd0d28d-4660-4b51-a7a3-decd0dc2b475)
-![Uploading VirtualBox_ubuntu1_26_10_2024_01_29_32.png…]()
-![VirtualBox_ubuntu1_26_10_2024_01_29_41](https://github.com/user-attachments/assets/2ee55842-d54b-4b76-b8ba-5d8db531b483)
-![VirtualBox_ubuntu1_26_10_2024_01_30_35](https://github.com/user-attachments/assets/074e7562-600d-4d85-b364-bf5aabbc02c5)
-![VirtualBox_ubuntu1_26_10_2024_01_31_30](https://github.com/user-att![VirtualBox_ubuntu1_26_10_2024_01_31_53](https://github.com/user-attachments/assets/6fc69a79-a0c3-43f2-b0bd-65e2005ae6af)
-achments/assets/c8021ccb-8295-4da9-9e69-e7ab484eb93c)
-![VirtualBox_ubuntu1_26_10_2024_01_32_08](https://github.com/user-attachments/assets/e58a166b-817d-4359-b5ea-4efa1ebcfe60)
-![VirtualBox_ubuntu1_26_10_2024_01_33_08 (1)](https://github.com/user-attachments/assets/b6b6e8c5-8443-4949-9d33-813b3d0a27c3)
-![VirtualBox_ubuntu1_26_10_2024_01_44_32](https://github.com/user-attachments/assets/9064b41f-33df-4b99-905f-87fe97143ad8)
-![Uploading VirtualBox_ubuntu1_26_10_2024_01_44_53.png…]()
+Initial Screen
+
+When you first launch the installer, you'll need to choose a language. This selection will determine the language used during the installation and set the default system language.
+
+Instructions: Pick your desired language from the options provided on the right. For this example, "English" has been chosen. Click "Next" to continue.
+![VirtualBox_ubuntu1_26_10_2024_01_28_33 (1)](https://github.com/user-attachments/assets/1deb4115-e8e9-44ab-8e53-9c9fd1e0f9e9)
+![VirtualBox_ubuntu1_26_10_2024_01_28_43 (1)](https://github.com/user-attachments/assets/08a8ebdc-73c4-4f39-9700-60ab29e63e76)
+![VirtualBox_ubuntu1_26_10_2024_01_28_55 (2)](https://github.com/user-attachments/assets/beb6503b-1884-4021-82cf-d6f1db659d33)
+![VirtualBox_ubuntu1_26_10_2024_01_29_04 (1)](https://github.com/user-attachments/assets/19cfc3b5-c1ce-4151-95bd-6eabdb7d434c)
+![VirtualBox_ubuntu1_26_10_2024_01_29_12 (1)](https://github.com/user-attachments/assets/22a7b815-63eb-47a4-b297-6439182fbf82)
+![VirtualBox_ubuntu1_26_10_2024_01_29_32 (1)](https://github.com/user-attachments/assets/e11ced45-6a39-4238-b277-5e78964bb609)
+![VirtualBox_ubuntu1_26_10_2024_01_29_41 (1)](https://github.com/user-attachments/assets/77df6fca-d23f-49c6-8566-7c5295306250)
+![VirtualBox_ubuntu1_26_10_2024_01_30_35 (2)](https://github.com/user-attachments/assets/f7ffd068-28cd-4855-a57b-507596d0d1e5)
+![VirtualBox_ubuntu1_26_10_2024_01_31_30 (2)](https://github.com/user-attachments/assets/308e0e0f-689e-413f-a3e5-969c9a5d9a3f)
+![VirtualBox_ubuntu1_26_10_2024_01_31_53 (2)](https://github.com/user-attachments/assets/fcf98866-1ab2-4f9b-b839-1c94a7b389ef)
+![VirtualBox_ubuntu1_26_10_2024_01_32_08 (2)](https://github.com/user-attachments/assets/64421a40-a831-42bb-9a24-39622f899b70)
+![VirtualBox_ubuntu1_26_10_2024_01_33_08 (2)](https://github.com/user-attachments/assets/c314f347-dc70-42b8-8c49-2d2219ad84b2)
+![VirtualBox_ubuntu1_26_10_2024_01_44_32 (1)](https://github.com/user-![VirtualBox_ubuntu1_26_10_2024_01_44_53 (2)](https://github.com/user-attachments/assets/7422c7ad-d27f-44d5-ab0c-e0b5b683c1f2)
+attachments/assets/decabe22-0a81-4685-9621-eca34cd6a358)
+
+The installation of Ubuntu is now complete. Thank you!
+
 
 
 
