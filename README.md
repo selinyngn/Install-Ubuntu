@@ -1,21 +1,22 @@
 # Install-Ubuntu
-How to Install Ubuntu on VirtualBox?
+1.How to Install Ubuntu on VirtualBox?
 ![WhatsApp Image 2024-10-27 at 00 51 18](https://github.com/user-attachments/assets/f514b6e9-e9b3-45e5-96a5-d081d20c7165)
 
-You can download the Ubuntu installation file.
+2.You can download the Ubuntu installation file.
 ![WhatsApp Image 2024-10-27 at 00 51 19](https://github.com/user-attachments/assets/cd5431ce-b681-448f-8267-be82386b5bd2)
 
-Open VirtualBox and click the Start button.
+3.Open VirtualBox and click the Start button.
 ![WhatsApp Image 2024-10-27 at 00 51 19 (1)](https://github.com/user-attachments/assets/5125ec86-29da-4216-ba60-c71940436e7f)
 
-Name and Operating System Installation Section:
+4.Name and Operating System Installation Section:
 ![WhatsApp Image 2024-10-27 at 00 51 18 (1)](https://github.com/user-attachments/assets/3d28000a-8e05-4275-8385-5446f19f193c)
 
-Adjust the hardware settings according to your computer specifications.
+5.Adjust the hardware settings according to your computer specifications.
 ![WhatsApp Image 2024-10-27 at 00 51 18 (2)](https://github.com/user-attachments/assets/165f44c4-23a5-4dbf-95d3-a2a2f7749b91)
 
-Set the hard disk size according to your hardware and click the Finish button to run the virtual machine.
-![WhatsApp Image 2024-10-27 at 00 51 18 (3)](https://github.com/user-attachments/assets/5e3dc732-d354-444e-9d73-0c16a45fc1af)
+6.Set the hard disk size according to your hardware and click the Finish button to run the virtual machine.
+![Uploading WhatsApp Image 2024-10-27 at 00.51.19 (2).jpeg…]()
+
 
 1.Initial Screen
 
