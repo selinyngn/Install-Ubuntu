@@ -34,8 +34,7 @@ Instructions: Pick your desired language from the options provided on the right.
 ![VirtualBox_ubuntu1_26_10_2024_01_31_53 (2)](https://github.com/user-attachments/assets/fcf98866-1ab2-4f9b-b839-1c94a7b389ef)
 ![VirtualBox_ubuntu1_26_10_2024_01_32_08 (2)](https://github.com/user-attachments/assets/64421a40-a831-42bb-9a24-39622f899b70)
 ![VirtualBox_ubuntu1_26_10_2024_01_33_08 (2)](https://github.com/user-attachments/assets/c314f347-dc70-42b8-8c49-2d2219ad84b2)
-![VirtualBox_ubuntu1_26_10_2024_01_44_32 (1)](https://github.com/user-![VirtualBox_ubuntu1_26_10_2024_01_44_53 (2)](https://github.com/user-attachments/assets/7422c7ad-d27f-44d5-ab0c-e0b5b683c1f2)
-attachments/assets/decabe22-0a81-4685-9621-eca34cd6a358)
+
 
 The installation of Ubuntu is now complete. Thank you!
 
