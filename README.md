@@ -83,6 +83,7 @@ Once the installation is finished, click "Restart now" to boot into your new Ubu
 After restarting, Ubuntu will load your new desktop, and you’re ready to start exploring your new system.
 ![WhatsApp Image 2024-10-27 at 01 50 05](https://github.com/user-attachments/assets/68651090-fa37-44a1-a5d4-6f1e15d797b7)
 
+This completes your Ubuntu installation!!
 
 
 
